@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/home/h7ck3r/.flutter/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/h7ck3r/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/h7ck3r/Notes/code/flutter/meal_planer/ServeYourself/serveyourself/android/app/.cxx/Debug/382jo6u3/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/h7ck3r/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/h7ck3r/Notes/code/flutter/meal_planer/ServeYourself/serveyourself/android/app/.cxx/Debug/382jo6u3/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/h7ck3r/android-sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/h7ck3r/android-sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

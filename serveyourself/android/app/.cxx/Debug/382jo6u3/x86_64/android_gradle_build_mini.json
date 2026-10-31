@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/h7ck3r/.flutter/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/h7ck3r/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/h7ck3r/Notes/code/flutter/meal_planer/ServeYourself/serveyourself/android/app/.cxx/Debug/382jo6u3/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/h7ck3r/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/h7ck3r/Notes/code/flutter/meal_planer/ServeYourself/serveyourself/android/app/.cxx/Debug/382jo6u3/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
